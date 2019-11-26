@@ -79,7 +79,7 @@
 	<distributionManagement>
           <snapshotRepository>
           <id>artifact</id>
-          <url>http://3.133.112.119:8081/artifactory/libs-snapshot</url>
+          <url>http://13.58.103.26:8081/artifactory/libs-snapshot</url>
           </snapshotRepository>
        </distributionManagement>
 
